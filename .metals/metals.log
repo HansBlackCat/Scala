@@ -1,0 +1,233 @@
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.31s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+Apr 23, 2020 2:19:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+Apr 23, 2020 2:20:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 166
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+Apr 23, 2020 3:09:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 23, 2020 3:09:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 23, 2020 3:09:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 23, 2020 3:09:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 23, 2020 3:09:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 23, 2020 3:10:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 23, 2020 3:10:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 23, 2020 3:14:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+Apr 23, 2020 3:24:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1468
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala, 120, 120, 135)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala, 120, 120, 128)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala, 120, 120, 129)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala, 120, 120, 130)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala, 120, 120, 133)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala, 120, 120, 133)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Hello.scala, 120, 120, 133)
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+Apr 23, 2020 4:23:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2593
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+Apr 23, 2020 5:00:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3499
+Apr 23, 2020 5:00:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3516
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+Apr 23, 2020 5:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3581
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.45s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
