@@ -231,3 +231,42 @@ INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/
 INFO  time: initialize in 0.45s
 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.31s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 26, 2020 3:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Apr 26, 2020 3:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Apr 26, 2020 3:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+Apr 26, 2020 3:51:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 131
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
