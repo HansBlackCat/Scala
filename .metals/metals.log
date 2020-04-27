@@ -270,3 +270,701 @@ WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scal
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Dont_compile_this.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 1.33s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.37s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/factorial.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Dont_compile_this.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 27, 2020 9:42:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Apr 27, 2020 9:42:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Apr 27, 2020 9:42:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Apr 27, 2020 9:42:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+Apr 27, 2020 9:47:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1188
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+Apr 27, 2020 9:48:03 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+Apr 27, 2020 10:07:36 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:07:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+Apr 27, 2020 10:07:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3400
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+Apr 27, 2020 10:08:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3558
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+Apr 27, 2020 10:09:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3795
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+Apr 27, 2020 10:13:34 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:13:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+Apr 27, 2020 10:13:42 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:13:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+Apr 27, 2020 10:16:43 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:16:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+Apr 27, 2020 10:16:59 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:16:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+Apr 27, 2020 10:17:08 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:17:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+Apr 27, 2020 10:17:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5005
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+Apr 27, 2020 10:17:20 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:17:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+Apr 27, 2020 10:21:31 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:21:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+Apr 27, 2020 10:46:28 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 27, 2020 10:46:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.39s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 27, 2020 1:42:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 27, 2020 1:42:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/Pizza.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+Apr 27, 2020 3:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3930
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+Apr 27, 2020 3:26:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4130
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/some_collections.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/sometraits.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/oopex.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+Apr 27, 2020 4:41:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5883
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/fp.scala

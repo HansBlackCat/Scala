@@ -1,5 +1,5 @@
 
-object Dont_compile_this {
+object Dont_compile_this extends App {
   val x: Int = 1
   val s: String = "a string"
   val b: Boolean = true
@@ -36,5 +36,7 @@ object Dont_compile_this {
   val lastName = "Nohman"
 
   val name1 = firstName + " " + mi + " " + lastName
-  val name2 = 
+  val name2 = "Sam"
+
+  
 }
