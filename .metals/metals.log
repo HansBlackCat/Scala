@@ -1553,3 +1553,505 @@ WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scal
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/9_classes.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/9_classes.scala
 INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.32s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/8_simpleIO.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/9_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/9_classes.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/9_classes.scala
+Apr 29, 2020 2:12:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/9_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala, 74, 74, 89)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala, 74, 74, 82)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala, 74, 74, 87)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala, 74, 74, 87)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala, 74, 74, 87)
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/9_classes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.35s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/11_types.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/10_class2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 30, 2020 9:04:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Apr 30, 2020 9:04:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+Apr 30, 2020 9:45:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2392
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+Apr 30, 2020 9:48:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2569
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+Apr 30, 2020 9:53:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3174
+Apr 30, 2020 9:53:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3184
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+Apr 30, 2020 10:34:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3587
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+Apr 30, 2020 11:01:47 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 30, 2020 11:01:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1830)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5653)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+Apr 30, 2020 11:23:45 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+Apr 30, 2020 11:33:36 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Apr 30, 2020 11:33:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/13_controlStructure.scala

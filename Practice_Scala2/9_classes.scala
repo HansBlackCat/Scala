@@ -8,7 +8,7 @@ class CheckSummAccumulator {
         private_sum += b
     }
     def checksum(): Int = {
-        return ~(sum & 0xFF) +1
+        return ~(private_sum & 0xFF) +1
     }
 }
 
@@ -29,6 +29,7 @@ object CheckSummAccumulator {
     }
 }
 
+/*
 object main extends App {
     val acc = new CheckSummAccumulator
     acc.public_sum = 10
@@ -39,3 +40,4 @@ object main extends App {
 
 
 }
+*/
