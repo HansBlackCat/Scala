@@ -17,5 +17,28 @@ object main extends App {
         return b
     }
 
-    
+    def gcd(x: Long, y: Long): Long = 
+        if (y == 0) x else gcd(y, x%y)
+
+    def currentFilePrint() = {
+        val filesHere = (new java.io.File(".")).listFiles
+        for (file <- filesHere) println(file)
+    }
+
+    def ranger() = {
+        for (i <- 1 to 4) println("Iteration " + i)
+    }
+
+    def currentFilePrintV2() = {
+        val filesHere = (new java.io.File(".")).listFiles
+        for (
+            file <- filesHere 
+            if file.isFile
+            if file.getName.endsWith(".scala")
+        ) {
+            println(file)
+        }
+    }
+
+
 }
