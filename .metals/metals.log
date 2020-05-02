@@ -2521,3 +2521,106 @@ WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scal
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+May 02, 2020 2:25:20 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 02, 2020 2:25:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+May 02, 2020 2:25:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 606
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+May 02, 2020 2:25:49 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 02, 2020 2:25:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+May 02, 2020 2:25:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 806
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+INFO  shutting down Metals
