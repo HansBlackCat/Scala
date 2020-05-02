@@ -2624,3 +2624,165 @@ WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scal
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
 INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.32s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/16_scopes.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/15_looping.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/14_tryCatchEx.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+May 03, 2020 12:40:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 174
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+May 03, 2020 12:42:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 784
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/17_multiplicationTable.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+May 03, 2020 1:03:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1193
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala, 465, 465, 480)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala, 465, 465, 473)
+May 03, 2020 1:15:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2170
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala, 465, 465, 475)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala, 465, 465, 478)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala, 465, 465, 478)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala, 465, 465, 478)
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+May 03, 2020 1:16:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2517
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/4_pa.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/19_funcPrivate.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/19_funcPrivate.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/19_funcPrivate.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/19_funcPrivate.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/19_funcPrivate.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/19_funcPrivate.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+May 03, 2020 1:24:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2661
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/18_func.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/1_hello.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/19_closures.scala
+INFO  shutting down Metals
