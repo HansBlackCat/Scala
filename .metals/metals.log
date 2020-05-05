@@ -3525,3 +3525,229 @@ WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scal
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/22_Element.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/22_Element.scala
 INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+INFO  time: initialize in 0.39s
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala, 577, 577, 590)
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/22_Element.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+May 04, 2020 11:34:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1702
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+May 04, 2020 11:44:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4120
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala, 2915, 2915, 2930)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala, 2915, 2915, 2923)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala, 2915, 2915, 2928)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala, 2915, 2915, 2928)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala in Array[String]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala, 2915, 2915, 2928)
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/23_Element2.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+May 05, 2020 12:41:16 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 05, 2020 12:41:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/20_FileMatching.scala
+WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/24_hierarchy.scala
+INFO  shutting down Metals

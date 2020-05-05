@@ -1,39 +1,68 @@
+import Element.elem
 
 // abstract class cannot be instantiated
 abstract class Element {
-    override def toString(): String = contents.mkString("\n")
-
     def contents: Array[String]
 
-    // no-parentheses method
     def height: Int = contents.length
-    // if we make hight to `val`, slightly faster, but allocate more memory
-    // val height: Int = contents.length
-
-    def width: Int = if (height == 0) 0 else contents(0).length
+    def width: Int = contents(0).length
 
     def above(that: Element): Element = {
-        new ArrayElement(this.contents ++ that.contents)
+        val this1 = this widen that.width
+        val that1 = that widen this.width
+        elem(this1.contents ++ that1.contents)
     }
     def beside(that: Element): Element = {
-        /*
-        // Creating nullspace Array with length=this.contents.length
-        val contents = new Array[String](this.contents.length)
-        for (i <- 0 until this.contents.length) {
-            contents(i) = this.contents(i) + that.contents(i)
-        }
-        new ArrayElement(contents)
-        */
-
-        new ArrayElement(
-            for ((l1, l2) <- this.contents zip that.contents) yield l1+l2
+        val this1 = this heighten that.height
+        val that1 = that heighten this.height
+        elem(
+            for ((l1, l2) <- this1.contents zip that1.contents) yield l1+l2
         )
     }
+
+    def widen(w: Int): Element = {
+        if (w <= width) this
+        else {
+            val left = elem(' ', (w-width)/2, height)
+            val right = elem(' ', w-width-left.width, height)
+            left beside this beside right
+        }
+    }
+    def heighten(h: Int): Element = {
+        if (h <= height) this
+        else {
+            val top = elem(' ', width, (h-height/2))
+            val bot = elem(' ', width, h-height-top.height)
+            top above this above bot
+        }
+    }
+    
+    override def toString(): String = contents.mkString("\n")
 }
 
 object Element {
-    def elem(conts: Array[String]): Element = {
-        new ArrayElement(conts)
+
+    private class ArrayElement(override val contents: Array[String]) extends Element
+    
+    private class LineElement(s: String) extends Element {
+        val contents = Array(s)
+        override def width: Int = s.length
+        override def height: Int = 1
+    }
+
+    private class UniformElement (
+        ch: Char,
+        // `override` required
+        override val width: Int,
+        override val height: Int,
+    ) extends Element {
+        private val line = ch.toString * width
+        final def onlyInUniform = println("I'm uniform")
+        def contents: Array[String] = Array.fill(height)(line)
+    }
+
+    def elem(contents: Array[String]): Element = {
+        new ArrayElement(contents)
     }
     def elem(chr: Char, width: Int, height: Int): Element = {
         new UniformElement(chr, width, height)
@@ -43,36 +72,30 @@ object Element {
     }
 }
 
-class ArrayElement(conts: Array[String]) extends Element {
-    // override contents
-    def contents: Array[String] = conts
-}
+object Spiral {
+    val space = elem(" ")
+    val corner = elem("+")
 
-class LineElement(s: String) extends ArrayElement(Array(s)) {
-    override def width: Int = s.length
-    override def height: Int = 1
-}
+    def spiral(nEdges: Int, direction: Int): Element = {
+        if (nEdges == 1) elem("+")
+        else {
+            val sp = spiral(nEdges-1, (direction+3)%4)
+            def verticalBar = elem('|', 1, sp.height)
+            def horizontalBar = elem('-', sp.width, 1)
+            if (direction == 0) {
+                (corner beside horizontalBar) above (sp beside space)
+            } else if (direction == 1) {
+                (sp above space) beside (corner above verticalBar)
+            } else if (direction == 2) {
+                (space beside sp) above (horizontalBar beside corner)
+            } else {
+                (verticalBar above corner) beside (space above sp)
+            }
+        }
+    }
 
-/* error: class ErrorElement needs to be abstract. Missing implementation for ...
-class ErrorElement(conts: Array[String]) extends Element {
-    override def height: Int = conts.length
+    def main(args: Array[String]) = {
+        val nSides = args(0).toInt
+        println(spiral(nSides, 0))
+    }
 }
-*/
-
-class UniformElement (
-    ch: Char,
-    // `override` required
-    override val width: Int,
-    override val height: Int,
-) extends Element {
-    private val line = ch.toString * width
-    final def onlyInUniform = println("I'm uniform")
-    def contents: Array[String] = Array.fill(height)(line)
-}
-
-/* error: cannot override final member ...
-class FinalTestElement extends UniformElement('a',3,3) {
-    override def onlyInUniform: Unit = println("hi")
-}
-*/
-
