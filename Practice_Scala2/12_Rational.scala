@@ -1,6 +1,6 @@
 import scala.language.implicitConversions
 
-class Rational(n: Int, d: Int) {
+class Rational(n: Int, d: Int) extends Ordered[Rational] {
     // Implicit def
     // implicit def intToRational(x: Int) = new Rational(x)
     // enable `2*x`
@@ -93,4 +93,6 @@ class Rational(n: Int, d: Int) {
     def max(that: Rational) = {
         if (this.lessThan(that)) that else this
     }
+
+    def compare(that: Rational): Int = (this.numer * that.denom) - (that.numer * this.denom)
 }
