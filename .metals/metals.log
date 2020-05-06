@@ -4139,3 +4139,337 @@ WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scal
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+INFO  shutting down Metals
+2020.05.06 09:04:50 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.06 09:04:50 INFO  time: initialize in 0.33s
+2020.05.06 09:04:51 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.06 09:04:51 INFO  no build target: using presentation compiler with only scala-library
+2020.05.06 09:04:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+2020.05.06 09:16:33 INFO  shutting down Metals
+2020.05.06 09:16:57 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.06 09:16:57 INFO  time: initialize in 0.32s
+2020.05.06 09:16:58 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.06 09:16:58 INFO  no build target: using presentation compiler with only scala-library
+2020.05.06 09:16:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/12_Rational.scala
+2020.05.06 09:17:29 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.06 09:17:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/26_Rectangular.scala
+2020.05.06 09:19:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:19:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:19:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:19:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:19:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+May 06, 2020 9:20:08 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 06, 2020 9:20:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+2020.05.06 09:20:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:20:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:21:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:21:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:21:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:21:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:21:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:21:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+May 06, 2020 9:22:27 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 06, 2020 9:22:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+2020.05.06 09:22:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:22:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:22:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:22:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:22:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:22:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:23:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+May 06, 2020 9:23:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 768
+2020.05.06 09:23:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:23:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:26:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:26:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:26:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:26:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:26:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:27:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:27:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:27:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:27:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:27:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:28:59 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.06 09:44:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:46:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:46:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:46:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:46:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:46:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:46:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:48:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:50:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:51:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:51:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:51:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:52:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:52:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:54:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:54:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:55:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:56:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:57:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:57:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:57:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:57:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:57:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:57:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:58:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:58:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:59:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:59:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:59:43 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.06 09:59:45 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.06 09:59:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:59:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 09:59:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 10:00:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 10:00:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.06 10:09:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/25_traits.scala
+2020.05.06 10:46:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:46:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:47:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:49:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:49:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+May 06, 2020 10:49:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.IndexOutOfBoundsException: 1
+java.util.concurrent.CompletionException: java.lang.IndexOutOfBoundsException: 1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IndexOutOfBoundsException: 1
+	at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:188)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition(AutoImports.scala:67)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition$(AutoImports.scala:44)
+	at scala.meta.internal.pc.MetalsGlobal.autoImportPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$lzycompute$1(CompletionProvider.scala:68)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$1(CompletionProvider.scala:68)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:141)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+May 06, 2020 10:49:11 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 06, 2020 10:49:11 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 1
+java.lang.IndexOutOfBoundsException: 1
+	at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:188)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition(AutoImports.scala:67)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition$(AutoImports.scala:44)
+	at scala.meta.internal.pc.MetalsGlobal.autoImportPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$lzycompute$1(CompletionProvider.scala:68)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$1(CompletionProvider.scala:68)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:141)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.TraversableOnce.toSeq(TraversableOnce.scala:336)
+	at scala.collection.TraversableOnce.toSeq$(TraversableOnce.scala:336)
+	at scala.collection.AbstractIterator.toSeq(Iterator.scala:1431)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:230)
+
+2020.05.06 10:49:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+May 06, 2020 10:49:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.IndexOutOfBoundsException: 1
+java.util.concurrent.CompletionException: java.lang.IndexOutOfBoundsException: 1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IndexOutOfBoundsException: 1
+	at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:188)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition(AutoImports.scala:67)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition$(AutoImports.scala:44)
+	at scala.meta.internal.pc.MetalsGlobal.autoImportPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$lzycompute$1(CompletionProvider.scala:68)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$1(CompletionProvider.scala:68)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:141)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+2020.05.06 10:49:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:50:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:50:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:50:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:50:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:51:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+May 06, 2020 10:51:59 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 06, 2020 10:51:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+2020.05.06 10:52:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:52:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
