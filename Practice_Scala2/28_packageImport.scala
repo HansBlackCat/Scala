@@ -1,18 +1,26 @@
 
-package bobsrockets {
-    package navigation {
-        class Navigator {
-            val map = new StarMap
-            // val full_map = new bobsrockets.navigation.StarMap
-        }
-        class StarMap
-    }
-    package fleets {
-        class Fleet {
-            def addShip() = { new Ship }
-        }
-    }
-    class Ship {
-        val nav = new navigation.Navigator
+package bobsdelights
+abstract class Fruit(
+    val name: String,
+    val color: String
+)
+
+object Fruits {
+    object Apple extends Fruit("apple", "red")
+    object Orange extends Fruit("orange", "orange")
+    object Pear extends Fruit("pear", "yellowish")
+    val menu = List(Apple, Orange, Pear)
+}
+
+object mainApp extends App {
+    def showFruit(fruit: Fruit) = {
+        import fruit._
+        println(name + "s are " + color)
     }
 }
+
+class AstarB {
+    val pat = java.util.regex.Pattern.compile("a*b")
+}
+
+

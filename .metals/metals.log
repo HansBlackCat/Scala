@@ -4473,3 +4473,111 @@ java.lang.NullPointerException
 2020.05.06 10:52:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
 2020.05.06 10:52:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
 2020.05.06 10:52:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 10:58:43 INFO  shutting down Metals
+2020.05.06 13:58:09 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.06 13:58:10 INFO  time: initialize in 0.36s
+2020.05.06 13:58:10 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.06 13:58:10 INFO  no build target: using presentation compiler with only scala-library
+2020.05.06 13:58:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 14:03:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.06 14:03:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/1_hello.scala
+2020.05.06 14:03:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/2_helloarg.scala
+2020.05.06 14:03:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/3_printargs.scala
+2020.05.06 14:03:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/2_helloarg.scala
+2020.05.06 14:03:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/1_hello.scala
+2020.05.06 15:00:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:00:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:00:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:00:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:00:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:00:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:01:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:01:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:01:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:01:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:01:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:01:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.06 15:01:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.06 15:01:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.06 15:02:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:02:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:05:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:05:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:05:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:05:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:05:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:06:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:06:10 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:06:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:06:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:06:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:09:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:09:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:09:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:09:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:11:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:12:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:13:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:13:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:13:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:13:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:13:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:14:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:16:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+May 06, 2020 3:17:24 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 06, 2020 3:17:24 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+2020.05.06 15:17:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 15:17:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:17:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:17:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:17:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:17:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:17:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:17:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:17:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:43:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:58:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.06 16:58:41 INFO  shutting down Metals
