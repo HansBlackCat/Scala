@@ -1,0 +1,20 @@
+compile
+~compile
+compile
+run
+set ThisBuild / scalaVersion := "2.13.2"
+scalaVersion
+set ThisBuild / scalaVersion := "2.13.2"
+scalaVersion
+session save
+reload
+compile
+reload
+compile
+겨ㅜ
+run
+~compile
+compile
+reload
+compile
+scalaVersion
