@@ -10,3 +10,6 @@ class test {
 
 }
 
+object Uni extends App {
+    println("\u00C6")
+}

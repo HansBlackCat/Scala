@@ -5603,3 +5603,130 @@ WARNING: Unmatched cancel notification for request id 20
 2020.05.07 13:40:35 INFO  no build target: using presentation compiler with only scala-library
 2020.05.07 13:49:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Spark/linkage_sp/src/main/scala/example/HelloScala.scala
 2020.05.07 13:49:34 INFO  shutting down Metals
+2020.05.07 20:28:54 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.07 20:28:55 INFO  time: initialize in 1.14s
+2020.05.07 20:28:56 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.07 20:29:09 INFO  no build target: using presentation compiler with only scala-library
+2020.05.07 20:33:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.07 20:33:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.07 20:33:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/27_Queue.scala
+2020.05.07 20:33:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/28_packageImport.scala
+2020.05.07 20:33:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:33:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:33:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:33:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:33:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:36:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:36:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+May 07, 2020 8:37:40 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 07, 2020 8:37:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+May 07, 2020 8:37:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 197
+2020.05.07 20:37:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:37:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:37:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:37:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:38:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:38:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+May 07, 2020 8:38:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 289
+2020.05.07 20:38:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:38:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:38:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:38:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:38:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:38:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:39:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:39:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:42:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:42:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:42:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:42:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:42:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:42:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:42:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:43:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:43:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:43:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:43:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 20:43:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/29_assert.scala
+2020.05.07 21:11:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.07 21:11:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.07 21:21:21 INFO  shutting down Metals
+2020.05.08 00:01:40 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.08 00:01:41 INFO  time: initialize in 1.08s
+2020.05.08 00:01:42 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.08 00:01:42 INFO  no build target: using presentation compiler with only scala-library
+2020.05.08 00:01:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:01:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+May 08, 2020 12:01:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+May 08, 2020 12:01:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+May 08, 2020 12:01:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2020.05.08 00:01:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:01:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:01:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:01:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:01:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:02:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:02:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:02:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:02:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:02:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:03:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:03:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/0_test.scala
+2020.05.08 00:03:15 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.08 00:12:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:12:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:12:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:12:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+May 08, 2020 12:12:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 401
+2020.05.08 00:12:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:13:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:14:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:24:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:24:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:33:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:33:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:33:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:35:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:35:21 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.08 00:35:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:40:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:40:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:40:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+May 08, 2020 12:44:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1198
+2020.05.08 00:44:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:44:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:45:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:45:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:45:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:45:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:45:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:45:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala

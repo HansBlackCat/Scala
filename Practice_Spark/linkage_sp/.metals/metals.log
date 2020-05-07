@@ -3028,3 +3028,130 @@ WARNING: Unmatched cancel notification for request id 7815
 No more data in the client stdin, exiting...
 No more data in the server stdin, exiting...
 No more data in the server stdin, exiting...
+2020.05.07 20:27:57 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark/linkage_sp'
+2020.05.07 20:27:58 INFO  time: initialize in 1.27s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher2762044406912961649/bsp.socket'...
+Waiting for the bsp connection to come up...
+2020.05.07 20:27:59 INFO  skipping build import with status 'Installed'
+2020.05.07 20:27:59 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+2020.05.07 20:28:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Spark/linkage_sp/src/main/scala/example/HelloScala.scala
+2020.05.07 20:28:02 INFO  shutting down Metals
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@2b6746a4 rejected from java.util.concurrent.ThreadPoolExecutor@597f4d3d[Shutting down, pool size = 4, active threads = 4, queued tasks = 0, completed tasks = 25]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:99)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:97)
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:859)
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:837)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@3c0cf437 rejected from java.util.concurrent.ThreadPoolExecutor@597f4d3d[Shutting down, pool size = 3, active threads = 3, queued tasks = 0, completed tasks = 26]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:99)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:97)
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:859)
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:837)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@7041255b rejected from java.util.concurrent.ThreadPoolExecutor@597f4d3d[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 27]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:99)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:97)
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:859)
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:837)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.0-RC1-229-b7c15aa9...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark/linkage_sp/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark/linkage_sp/.bloop/hello-test.json'
+[0m[32m[D][0m Loading project from '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark/linkage_sp/.bloop/hello.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.11.
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'hello-test', 'hello'
+[0m[32m[D][0m Missing analysis file for project 'hello-test'
+[0m[32m[D][0m Loading previous analysis for 'hello' from '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark/linkage_sp/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher2762044406912961649/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher2762044406912961649/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@60578eae rejected from java.util.concurrent.ThreadPoolExecutor@597f4d3d[Shutting down, pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 28]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.Promise.success(Promise.scala:86)
+	at scala.concurrent.Promise.success$(Promise.scala:86)
+	at scala.concurrent.impl.Promise$DefaultPromise.success(Promise.scala:187)
+	at bloop.launcher.bsp.BspBridge.wireBspConnectionStreams(BspBridge.scala:253)
+	at bloop.launcher.LauncherMain.runLauncher(Launcher.scala:109)
+	at scala.meta.internal.metals.BloopServers$$anon$1.run(BloopServers.scala:107)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
