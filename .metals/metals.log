@@ -5730,3 +5730,48 @@ WARNING: Unmatched cancel notification for request id 1198
 2020.05.08 00:45:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
 2020.05.08 00:45:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
 2020.05.08 00:45:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 00:55:22 INFO  shutting down Metals
+2020.05.08 22:54:32 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.08 22:54:34 INFO  time: initialize in 1.27s
+2020.05.08 22:54:34 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.08 22:54:34 INFO  no build target: using presentation compiler with only scala-library
+2020.05.08 22:54:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+May 08, 2020 10:54:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+May 08, 2020 10:54:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+May 08, 2020 10:54:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+May 08, 2020 10:54:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2020.05.08 22:54:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:55:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:56:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:57:00 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:57:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:57:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:57:10 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:57:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:57:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.08 22:57:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
