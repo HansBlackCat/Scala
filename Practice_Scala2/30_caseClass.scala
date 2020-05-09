@@ -52,9 +52,13 @@ object main {
         }
     }
 
-    def isIntToIntMap(x: Any) =
+    // type erasure run
+    def isIntToIntMap(x: Any) = {
         x match {
             case m: Map[Int, Int] => true
             case _                => false
         }
+    }
+    // isIntToMap(Map(1->1))
+    // isIntToMap(Map(2->'c'))
 }

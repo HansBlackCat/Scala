@@ -5910,3 +5910,15 @@ something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Sc
 2020.05.09 19:47:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
 2020.05.09 19:47:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
 2020.05.09 19:47:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.09 19:49:16 INFO  shutting down Metals
+2020.05.09 21:58:46 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.09 21:58:47 INFO  time: initialize in 1.06s
+2020.05.09 21:58:48 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.09 21:58:48 INFO  no build target: using presentation compiler with only scala-library
+2020.05.09 21:58:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.09 22:01:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.09 22:01:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.09 22:01:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.09 22:02:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.09 22:02:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
+2020.05.09 22:03:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/30_caseClass.scala
