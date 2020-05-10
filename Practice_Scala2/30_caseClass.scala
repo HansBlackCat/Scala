@@ -59,6 +59,23 @@ object main {
             case _                => false
         }
     }
-    // isIntToMap(Map(1->1))
-    // isIntToMap(Map(2->'c'))
+    // isIntToMap(Map(1->1)) // true
+    // isIntToMap(Map(2->'c')) // true
+
+    def atBinding(x: Expr) = {
+        x match {
+            case UnOp("abs", e@UnOp("abs",_)) => e
+            case _                            =>
+        }
+    }
+
+    def simplifyAdd(e: Expr) = {
+        e match {
+            // error: x is already defined as value x
+            // case BinOp("+", x, x) => BinOp("*", x, Number(2))
+            case BinOp("+", x, y) if (x == y) =>
+                BinOp("*", x, Number(2))
+            case _                            => e
+        }
+    }
 }
