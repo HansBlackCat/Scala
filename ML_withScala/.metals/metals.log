@@ -1,0 +1,1876 @@
+2020.05.11 09:33:08 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala/ML_withScala'
+2020.05.11 09:33:10 INFO  time: initialize in 1.1s
+2020.05.11 09:33:15 INFO  running '/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/metals5077449585116175636/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.05.11 09:33:16 INFO  skipping build import with status 'Started'
+2020.05.11 09:33:21 INFO  [info] Loading settings for project ml_withscala-build from metals.sbt ...
+2020.05.11 09:33:21 INFO  [info] Loading project definition from /Users/hansblackcat/Documents/Git/Scala/ML_withScala/project
+2020.05.11 09:33:24 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2020.05.11 09:33:26 INFO  [info] Loading settings for project hello from build.sbt ...
+2020.05.11 09:33:26 INFO  [info] Set current project to Hello (in build file:/Users/hansblackcat/Documents/Git/Scala/ML_withScala/)
+2020.05.11 09:33:38 INFO  [success] Generated .bloop/hello.json
+2020.05.11 09:33:38 INFO  [success] Generated .bloop/hello-test.json
+2020.05.11 09:33:38 INFO  [success] Total time: 12 s, completed May 11, 2020, 9:33:38 AM
+2020.05.11 09:33:38 INFO  build tool exit: 0
+2020.05.11 09:33:38 INFO  time: ran 'sbt bloopInstall' in 22s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher15633099792690982693/bsp.socket'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.0-RC1-229-b7c15aa9...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop/hello.json'
+[0m[32m[D][0m Loading project from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop/hello-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.11.
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11.jar
+[0m[32m[D][0m Missing analysis file for project 'hello-test'
+[0m[32m[D][0m Missing analysis file for project 'hello'
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher15633099792690982693/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher15633099792690982693/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.05.11 09:33:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hansblackcat/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.05.11 09:33:42 INFO  time: connected to build server in 3.47s
+2020.05.11 09:33:42 INFO  Connected to Build server v1.4.0-RC1-229-b7c15aa9
+2020.05.11 09:33:45 INFO  time: indexed workspace in 3.71s
+2020.05.11 09:35:45 INFO  no build target: using presentation compiler with only scala-library
+2020.05.11 09:44:09 INFO  skipping build import with status 'Installed'
+2020.05.11 09:44:25 INFO  running '/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/metals16788417908027808936/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.05.11 09:44:29 INFO  [info] Loading settings for project ml_withscala-build from metals.sbt ...
+2020.05.11 09:44:30 INFO  [info] Loading project definition from /Users/hansblackcat/Documents/Git/Scala/ML_withScala/project
+2020.05.11 09:44:31 INFO  skipping build import with status 'Started'
+2020.05.11 09:44:31 ERROR /Users/hansblackcat/Documents/Git/Scala/ML_withScala/build.sbt:4: error: package java is not a value
+2020.05.11 09:44:31 ERROR run / java
+2020.05.11 09:44:31 ERROR       ^
+2020.05.11 09:44:31 INFO  [error] Type error in expression
+2020.05.11 09:44:31 INFO  Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? 
+2020.05.11 09:44:31 INFO  build tool exit: 1
+2020.05.11 09:44:32 INFO  time: ran 'sbt bloopInstall' in 6.55s
+2020.05.11 09:44:32 ERROR sbt command failed: /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/metals16788417908027808936/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2020.05.11 09:44:32 INFO  disconnected: build server
+No more data in the client stdin, exiting...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher8160483907141199109/bsp.socket'...
+Waiting for the bsp connection to come up...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher8160483907141199109/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher8160483907141199109/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.05.11 09:44:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hansblackcat/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.05.11 09:44:32 INFO  Connected to Build server v1.4.0-RC1-229-b7c15aa9
+2020.05.11 09:44:32 INFO  time: indexed workspace in 0.7s
+2020.05.11 09:44:47 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:44:49 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:44:50 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:45:18 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:47:55 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:47:59 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:01 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:02 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:06 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:09 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:11 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:13 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:16 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:18 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:28 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:33 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:35 INFO  skipping build import with status 'Dismissed'
+2020.05.11 09:48:39 INFO  running '/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/metals1593448055415357259/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.05.11 09:48:43 INFO  [info] Loading settings for project ml_withscala-build from metals.sbt ...
+2020.05.11 09:48:44 INFO  [info] Loading project definition from /Users/hansblackcat/Documents/Git/Scala/ML_withScala/project
+2020.05.11 09:48:46 ERROR /Users/hansblackcat/Documents/Git/Scala/ML_withScala/build.sbt:4: error: No Append.Value[Seq[String], Seq[String]] found, so Seq[String] cannot be appended to Seq[String]
+2020.05.11 09:48:46 ERROR run / javaOptions += Seq("-Xmx2G", "-Xms512m", "-XX:MaxPermSize512m")
+2020.05.11 09:48:46 ERROR                   ^
+2020.05.11 09:48:46 INFO  [error] Type error in expression
+2020.05.11 09:48:46 INFO  Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? 
+2020.05.11 09:48:46 INFO  build tool exit: 1
+2020.05.11 09:48:46 INFO  time: ran 'sbt bloopInstall' in 6.49s
+2020.05.11 09:48:46 ERROR sbt command failed: /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/metals1593448055415357259/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2020.05.11 09:48:46 INFO  disconnected: build server
+No more data in the client stdin, exiting...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher5687119761573956408/bsp.socket'...
+Waiting for the bsp connection to come up...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher5687119761573956408/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher5687119761573956408/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.05.11 09:48:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hansblackcat/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.05.11 09:48:46 INFO  Connected to Build server v1.4.0-RC1-229-b7c15aa9
+2020.05.11 09:48:46 INFO  time: indexed workspace in 0.66s
+2020.05.11 09:49:06 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2020.05.11 09:49:18 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala/ML_withScala'
+2020.05.11 09:49:19 INFO  time: initialize in 1.09s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher14696626941888641805/bsp.socket'...
+Waiting for the bsp connection to come up...
+2020.05.11 09:49:20 INFO  skipping build import with status 'Dismissed'
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher14696626941888641805/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher14696626941888641805/bsp.socket...
+2020.05.11 09:49:20 INFO  no build target: using presentation compiler with only scala-library
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.05.11 09:49:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hansblackcat/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.05.11 09:49:20 INFO  time: connected to build server in 0.37s
+2020.05.11 09:49:20 INFO  Connected to Build server v1.4.0-RC1-229-b7c15aa9
+2020.05.11 09:49:21 INFO  time: indexed workspace in 1.41s
+2020.05.11 09:53:01 INFO  running '/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/metals15738108787822673596/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.05.11 09:53:05 INFO  [info] Loading settings for project ml_withscala-build from metals.sbt ...
+2020.05.11 09:53:06 INFO  [info] Loading project definition from /Users/hansblackcat/Documents/Git/Scala/ML_withScala/project
+2020.05.11 09:53:07 INFO  [info] Loading settings for project hello from build.sbt ...
+2020.05.11 09:53:07 INFO  [info] Set current project to Hello (in build file:/Users/hansblackcat/Documents/Git/Scala/ML_withScala/)
+2020.05.11 09:53:07 INFO  [success] Generated .bloop/hello-test.json
+2020.05.11 09:53:07 INFO  [success] Generated .bloop/hello.json
+2020.05.11 09:53:07 INFO  [success] Total time: 0 s, completed May 11, 2020, 9:53:08 AM
+2020.05.11 09:53:07 INFO  build tool exit: 0
+2020.05.11 09:53:08 INFO  time: ran 'sbt bloopInstall' in 6.96s
+2020.05.11 09:53:08 INFO  disconnected: build server
+No more data in the client stdin, exiting...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher16053472559298288028/bsp.socket'...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 1 projects from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop/hello.json'
+[0m[32m[D][0m Configured SemanticDB in projects 'hello'
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher16053472559298288028/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher16053472559298288028/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.05.11 09:53:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hansblackcat/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.05.11 09:53:08 INFO  Connected to Build server v1.4.0-RC1-229-b7c15aa9
+2020.05.11 09:53:08 INFO  time: indexed workspace in 0.76s
+2020.05.11 10:27:53 INFO  compiling hello (1 scala source)
+2020.05.11 10:27:55 INFO  compiling hello (1 scala source)
+2020.05.11 10:27:56 INFO  time: compiled hello in 1.41s
+2020.05.11 10:28:14 INFO  compiling hello (1 scala source)
+2020.05.11 10:28:14 INFO  time: compiled hello in 0.54s
+2020.05.11 10:28:42 INFO  compiling hello (1 scala source)
+2020.05.11 10:28:42 INFO  time: compiled hello in 0.1s
+May 11, 2020 10:28:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:28:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:28:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:28:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:28:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:28:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/Predef.scala:5: error: expected identifier; obtained eof
+package object 
+               ^
+package object 
+               ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+2020.05.11 10:28:50 INFO  compiling hello (1 scala source)
+2020.05.11 10:28:50 INFO  time: compiled hello in 0.98s
+2020.05.11 10:29:45 INFO  compiling hello (1 scala source)
+2020.05.11 10:29:45 INFO  time: compiled hello in 0.61s
+2020.05.11 10:29:54 INFO  compiling hello (1 scala source)
+2020.05.11 10:29:54 INFO  time: compiled hello in 0.46s
+2020.05.11 10:30:01 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:01 INFO  time: compiled hello in 62ms
+2020.05.11 10:30:04 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:04 INFO  time: compiled hello in 0.5s
+2020.05.11 10:30:07 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:07 INFO  time: compiled hello in 61ms
+2020.05.11 10:30:14 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:14 INFO  time: compiled hello in 57ms
+2020.05.11 10:30:16 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:16 INFO  time: compiled hello in 0.5s
+2020.05.11 10:30:22 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:22 INFO  time: compiled hello in 55ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 126, 126, 141)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 126, 126, 134)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 126, 126, 139)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 126, 126, 139)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 126, 126, 139)
+2020.05.11 10:30:27 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:27 INFO  time: compiled hello in 48ms
+2020.05.11 10:30:31 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:31 INFO  time: compiled hello in 0.51s
+2020.05.11 10:30:33 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:33 INFO  time: compiled hello in 51ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 161, 161, 176)
+2020.05.11 10:30:40 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:40 INFO  time: compiled hello in 54ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 161, 161, 169)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 161, 161, 171)
+2020.05.11 10:30:44 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:44 INFO  time: compiled hello in 68ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 161, 161, 172)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[dev.mlScala.DataType.package.DblArray]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 161, 161, 176)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[dev.mlScala.DataType.package.DblArray]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 161, 161, 176)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[dev.mlScala.DataType.package.DblArray]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 161, 161, 176)
+2020.05.11 10:30:46 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:46 INFO  time: compiled hello in 0.47s
+2020.05.11 10:30:55 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:55 INFO  time: compiled hello in 46ms
+2020.05.11 10:30:57 INFO  compiling hello (1 scala source)
+2020.05.11 10:30:57 INFO  time: compiled hello in 0.45s
+2020.05.11 10:31:01 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:01 INFO  time: compiled hello in 67ms
+2020.05.11 10:31:01 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:01 INFO  time: compiled hello in 36ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 199, 199, 215)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 199, 199, 208)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 199, 199, 208)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 199, 199, 208)
+2020.05.11 10:31:04 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:04 INFO  time: compiled hello in 0.6s
+2020.05.11 10:31:06 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:06 INFO  time: compiled hello in 46ms
+2020.05.11 10:31:11 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:11 INFO  time: compiled hello in 0.54s
+2020.05.11 10:31:16 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:16 INFO  time: compiled hello in 60ms
+2020.05.11 10:31:16 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:16 INFO  time: compiled hello in 39ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 232, 232, 248)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 232, 232, 241)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 232, 232, 242)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 232, 232, 243)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 232, 232, 244)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 232, 232, 245)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 239, 239, 254)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 239, 239, 247)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 239, 239, 247)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 239, 239, 247)
+2020.05.11 10:31:19 INFO  compiling hello (1 scala source)
+2020.05.11 10:31:19 INFO  time: compiled hello in 0.49s
+2020.05.11 10:52:50 INFO  compiling hello (1 scala source)
+2020.05.11 10:52:50 INFO  time: compiled hello in 0.26s
+2020.05.11 10:52:51 INFO  compiling hello (1 scala source)
+2020.05.11 10:52:51 INFO  time: compiled hello in 0.13s
+2020.05.11 10:56:53 INFO  compiling hello (1 scala source)
+2020.05.11 10:56:53 INFO  time: compiled hello in 45ms
+May 11, 2020 10:56:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:66)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:56:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:66)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:56:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:66)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 10:56:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3: error: expected identifier; obtained eof
+object 
+       ^
+object 
+       ^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:66)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+2020.05.11 10:56:56 INFO  compiling hello (1 scala source)
+2020.05.11 10:56:56 INFO  time: compiled hello in 0.37s
+2020.05.11 10:57:42 INFO  compiling hello (1 scala source)
+2020.05.11 10:57:42 INFO  time: compiled hello in 0.35s
+2020.05.11 10:57:43 INFO  compiling hello (1 scala source)
+2020.05.11 10:57:43 INFO  time: compiled hello in 0.4s
+2020.05.11 10:57:48 INFO  compiling hello (1 scala source)
+2020.05.11 10:57:48 INFO  time: compiled hello in 42ms
+May 11, 2020 10:57:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1217
+2020.05.11 10:57:51 INFO  compiling hello (1 scala source)
+2020.05.11 10:57:51 INFO  time: compiled hello in 55ms
+2020.05.11 10:57:53 INFO  compiling hello (1 scala source)
+2020.05.11 10:57:53 INFO  time: compiled hello in 0.6s
+2020.05.11 10:57:56 INFO  compiling hello (1 scala source)
+2020.05.11 10:57:56 INFO  time: compiled hello in 47ms
+2020.05.11 10:58:02 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:02 INFO  time: compiled hello in 0.53s
+2020.05.11 10:58:05 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:05 INFO  time: compiled hello in 0.49s
+2020.05.11 10:58:07 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:07 INFO  time: compiled hello in 0.51s
+2020.05.11 10:58:22 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:22 INFO  time: compiled hello in 0.44s
+2020.05.11 10:58:25 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:25 INFO  time: compiled hello in 49ms
+2020.05.11 10:58:28 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:28 INFO  time: compiled hello in 44ms
+2020.05.11 10:58:36 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:36 INFO  time: compiled hello in 44ms
+2020.05.11 10:58:43 INFO  compiling hello (1 scala source)
+2020.05.11 10:58:43 INFO  time: compiled hello in 0.56s
+2020.05.11 10:58:48 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2020.05.11 13:27:11 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala/ML_withScala'
+2020.05.11 13:27:13 INFO  time: initialize in 1.17s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher3491095970316236483/bsp.socket'...
+Waiting for the bsp connection to come up...
+2020.05.11 13:27:13 INFO  skipping build import with status 'Requested'
+2020.05.11 13:27:13 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+2020.05.11 13:27:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.0-RC1-229-b7c15aa9...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop/hello-test.json'
+[0m[32m[D][0m Loading project from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/.bloop/hello.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.11.
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar
+[0m[32m[D][0m   => /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'hello', 'hello-test'
+[0m[32m[D][0m Missing analysis file for project 'hello-test'
+[0m[32m[D][0m Loading previous analysis for 'hello' from '/Users/hansblackcat/Documents/Git/Scala/ML_withScala/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher3491095970316236483/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/mz/n7zhg69s2vnc5bxt8djn4k_r0000gn/T/bsp-launcher3491095970316236483/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.05.11 13:27:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hansblackcat/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.05.11 13:27:18 INFO  time: connected to build server in 4.62s
+2020.05.11 13:27:18 INFO  Connected to Build server v1.4.0-RC1-229-b7c15aa9
+2020.05.11 13:27:17 INFO  time: imported build in 0.15s
+2020.05.11 13:27:21 INFO  time: indexed workspace in 2.98s
+2020.05.11 13:27:22 INFO  compiling hello (1 scala source)
+2020.05.11 13:27:26 INFO  time: compiled hello in 3.6s
+2020.05.11 13:28:18 INFO  compiling hello (1 scala source)
+2020.05.11 13:28:18 INFO  time: compiled hello in 0.29s
+2020.05.11 13:28:21 INFO  compiling hello (1 scala source)
+2020.05.11 13:28:21 INFO  time: compiled hello in 0.92s
+2020.05.11 13:28:53 INFO  compiling hello (1 scala source)
+2020.05.11 13:28:53 INFO  time: compiled hello in 0.68s
+2020.05.11 13:28:56 INFO  compiling hello (1 scala source)
+2020.05.11 13:28:56 INFO  time: compiled hello in 79ms
+May 11, 2020 1:28:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 104
+2020.05.11 13:29:04 INFO  compiling hello (1 scala source)
+2020.05.11 13:29:04 INFO  time: compiled hello in 73ms
+2020.05.11 13:29:11 INFO  compiling hello (1 scala source)
+2020.05.11 13:29:11 INFO  time: compiled hello in 0.64s
+2020.05.11 13:31:24 INFO  compiling hello (1 scala source)
+2020.05.11 13:31:24 INFO  time: compiled hello in 0.69s
+2020.05.11 13:31:25 INFO  compiling hello (1 scala source)
+2020.05.11 13:31:25 INFO  time: compiled hello in 0.27s
+2020.05.11 13:31:27 INFO  compiling hello (1 scala source)
+2020.05.11 13:31:27 INFO  time: compiled hello in 0.64s
+2020.05.11 13:31:32 INFO  compiling hello (1 scala source)
+2020.05.11 13:31:32 INFO  time: compiled hello in 52ms
+2020.05.11 13:31:35 INFO  compiling hello (1 scala source)
+2020.05.11 13:31:35 INFO  time: compiled hello in 0.6s
+2020.05.11 13:31:39 INFO  compiling hello (1 scala source)
+2020.05.11 13:31:39 INFO  time: compiled hello in 0.62s
+2020.05.11 13:31:40 INFO  compiling hello (1 scala source)
+2020.05.11 13:31:40 INFO  time: compiled hello in 0.21s
+2020.05.11 13:32:01 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:01 INFO  time: compiled hello in 0.66s
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 270, 270, 285)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 270, 270, 278)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 270, 270, 281)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 270, 270, 282)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 270, 270, 283)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 270, 270, 283)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 270, 270, 283)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 302, 302, 317)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 302, 302, 310)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 302, 302, 312)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 302, 302, 314)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 302, 302, 315)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 302, 302, 315)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[Double]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 302, 302, 315)
+2020.05.11 13:32:15 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:15 INFO  time: compiled hello in 50ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 334, 334, 350)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 334, 334, 343)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 334, 334, 345)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 334, 334, 346)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 334, 334, 349)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 334, 334, 349)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Vector[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 334, 334, 349)
+2020.05.11 13:32:23 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:23 INFO  time: compiled hello in 0.47s
+2020.05.11 13:32:27 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:27 INFO  time: compiled hello in 45ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 369, 369, 384)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 369, 369, 377)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 369, 369, 381)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala, 369, 369, 382)
+2020.05.11 13:32:36 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:36 INFO  time: compiled hello in 64ms
+2020.05.11 13:32:39 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:39 INFO  time: compiled hello in 0.51s
+2020.05.11 13:32:53 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:53 INFO  time: compiled hello in 0.46s
+2020.05.11 13:32:57 INFO  compiling hello (1 scala source)
+2020.05.11 13:32:57 INFO  time: compiled hello in 47ms
+May 11, 2020 1:33:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+May 11, 2020 1:33:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+java.util.concurrent.CompletionException: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/DataType.scala:7: error: expected identifier; obtained package
+package object DataType {
+^
+package object DataType {
+^
+	at scala.meta.internal.mtags.ScalaToplevelMtags.fail(ScalaToplevelMtags.scala:230)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.newIdentifier(ScalaToplevelMtags.scala:150)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:120)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitPackage(ScalaToplevelMtags.scala:94)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStat(ScalaToplevelMtags.scala:64)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseStats(ScalaToplevelMtags.scala:57)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:52)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:17)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:37)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:80)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:181)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:145)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:145)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:141)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:32)
+	at scala.collection.immutable.List.map(List.scala:286)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:28)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1018)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+2020.05.11 13:33:09 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:09 INFO  time: compiled hello in 0.49s
+2020.05.11 13:33:13 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:13 INFO  time: compiled hello in 0.49s
+2020.05.11 13:33:15 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:15 INFO  time: compiled hello in 0.48s
+2020.05.11 13:33:17 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:17 INFO  time: compiled hello in 0.53s
+2020.05.11 13:33:21 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:21 INFO  time: compiled hello in 0.51s
+2020.05.11 13:33:24 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:24 INFO  time: compiled hello in 51ms
+2020.05.11 13:33:28 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:28 INFO  time: compiled hello in 47ms
+2020.05.11 13:33:31 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:31 INFO  time: compiled hello in 0.52s
+2020.05.11 13:33:33 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:33 INFO  time: compiled hello in 43ms
+2020.05.11 13:33:34 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:34 INFO  time: compiled hello in 0.53s
+2020.05.11 13:33:37 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:37 INFO  time: compiled hello in 0.51s
+2020.05.11 13:33:57 INFO  compiling hello (1 scala source)
+2020.05.11 13:33:57 INFO  time: compiled hello in 64ms
+2020.05.11 13:34:03 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:03 INFO  time: compiled hello in 0.53s
+2020.05.11 13:34:12 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:12 INFO  time: compiled hello in 63ms
+2020.05.11 13:34:16 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:16 INFO  time: compiled hello in 57ms
+2020.05.11 13:34:31 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:31 INFO  time: compiled hello in 62ms
+2020.05.11 13:34:37 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:37 INFO  time: compiled hello in 73ms
+2020.05.11 13:34:42 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:42 INFO  time: compiled hello in 61ms
+2020.05.11 13:34:53 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:53 INFO  time: compiled hello in 65ms
+2020.05.11 13:34:53 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:53 INFO  time: compiled hello in 37ms
+2020.05.11 13:34:56 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:56 INFO  time: compiled hello in 64ms
+2020.05.11 13:34:58 INFO  compiling hello (1 scala source)
+2020.05.11 13:34:58 INFO  time: compiled hello in 62ms
+2020.05.11 13:35:02 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:02 INFO  time: compiled hello in 64ms
+2020.05.11 13:35:07 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:07 INFO  time: compiled hello in 74ms
+May 11, 2020 1:35:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1197
+2020.05.11 13:35:12 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:12 INFO  time: compiled hello in 61ms
+2020.05.11 13:35:14 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:14 INFO  time: compiled hello in 85ms
+2020.05.11 13:35:19 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:19 INFO  time: compiled hello in 82ms
+2020.05.11 13:35:21 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:21 INFO  time: compiled hello in 0.22s
+2020.05.11 13:35:30 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:30 INFO  time: compiled hello in 0.7s
+2020.05.11 13:35:46 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:46 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:46 INFO  time: compiled hello in 43ms
+2020.05.11 13:35:46 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:46 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:46 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:46 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:47 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:47 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:47 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:47 INFO  time: compiled hello in 39ms
+2020.05.11 13:35:49 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:49 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:49 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:49 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:49 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:49 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:50 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:50 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:50 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:50 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:50 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:50 INFO  time: compiled hello in 41ms
+2020.05.11 13:35:51 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:51 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:51 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:51 INFO  time: compiled hello in 37ms
+2020.05.11 13:35:53 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:53 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:53 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:54 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:55 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:55 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:55 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:55 INFO  time: compiled hello in 41ms
+2020.05.11 13:35:56 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:56 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:56 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:56 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:58 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:58 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:58 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:58 INFO  compiling hello (1 scala source)
+2020.05.11 13:35:58 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:35:58 INFO  time: compiled hello in 43ms
+2020.05.11 13:36:00 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:00 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:00 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:00 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:01 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:01 INFO  compiling hello (1 scala source)
+2020.05.11 13:36:01 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:01 INFO  time: compiled hello in 40ms
+2020.05.11 13:36:03 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:03 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:04 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:04 INFO  compiling hello (1 scala source)
+2020.05.11 13:36:04 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:04 INFO  time: compiled hello in 39ms
+2020.05.11 13:36:04 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:04 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:04 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:05 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:04 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:05 INFO  /Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala:3:1: stale bloop error: unclosed comment
+/*
+^
+2020.05.11 13:36:06 INFO  compiling hello (1 scala source)
+2020.05.11 13:36:06 INFO  time: compiled hello in 0.62s
+2020.05.11 13:36:25 INFO  compiling hello (1 scala source)
+2020.05.11 13:36:25 INFO  time: compiled hello in 0.55s
+2020.05.11 13:40:32 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:32 INFO  time: compiled hello in 43ms
+2020.05.11 13:40:34 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:34 INFO  time: compiled hello in 73ms
+2020.05.11 13:40:38 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:38 INFO  time: compiled hello in 80ms
+2020.05.11 13:40:38 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:38 INFO  time: compiled hello in 54ms
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala, 467, 467, 482)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala, 467, 467, 475)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala in Array[dev.mlScala.source.GoogleFinancials.Val]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala, 467, 467, 477)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala in Array[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala, 467, 467, 478)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala in Array[dev.mlScala.source.GoogleFinancials.Value]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala, 467, 467, 479)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala in Array[dev.mlScala.source.GoogleFinancials.Value]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala, 467, 467, 479)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala in Array[dev.mlScala.source.GoogleFinancials.Value]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/ML_withScala/src/main/scala/dev/mlScala/source/CSVfinance.scala, 467, 467, 479)
+2020.05.11 13:40:41 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:41 INFO  time: compiled hello in 73ms
+2020.05.11 13:40:49 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:49 INFO  time: compiled hello in 74ms
+2020.05.11 13:40:54 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:54 INFO  time: compiled hello in 71ms
+2020.05.11 13:40:58 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:58 INFO  time: compiled hello in 80ms
+2020.05.11 13:40:58 INFO  compiling hello (1 scala source)
+2020.05.11 13:40:58 INFO  time: compiled hello in 59ms
+2020.05.11 13:41:01 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:01 INFO  time: compiled hello in 76ms
+2020.05.11 13:41:03 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:03 INFO  time: compiled hello in 0.13s
+2020.05.11 13:41:04 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:04 INFO  time: compiled hello in 70ms
+2020.05.11 13:41:11 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:11 INFO  time: compiled hello in 84ms
+2020.05.11 13:41:15 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:15 INFO  time: compiled hello in 82ms
+2020.05.11 13:41:27 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:27 INFO  time: compiled hello in 0.11s
+2020.05.11 13:41:30 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:30 INFO  time: compiled hello in 0.1s
+2020.05.11 13:41:32 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:32 INFO  time: compiled hello in 0.65s
+2020.05.11 13:41:37 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:37 INFO  time: compiled hello in 0.1s
+2020.05.11 13:41:40 INFO  compiling hello (1 scala source)
+2020.05.11 13:41:40 INFO  time: compiled hello in 0.63s
+2020.05.11 13:43:28 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
