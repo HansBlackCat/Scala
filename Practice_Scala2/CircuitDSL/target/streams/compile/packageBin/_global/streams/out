@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/hello_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MySimulation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/MySimulation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MySimulation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/MySimulation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL/simulation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL/simulation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL/simulation/Adder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL/simulation/Adder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL/simulation/Element.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL/simulation/Element.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL/simulation/Element$Wire.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL/simulation/Element$Wire.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL/Base$WorkItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL/Base$WorkItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL/Base$WorkItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL/Base$WorkItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/circuitDSL/Base.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/dev/circuitDSL/Base.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes/MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:1:8: not found: object dev[0m
+[0m[[0m[31merror[0m] [0m[0mimport dev.circuitDSL._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:2:8: not found: object dev[0m
+[0m[[0m[31merror[0m] [0m[0mimport dev.circuitDSL.simulation._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:4:29: not found: type Adder[0m
+[0m[[0m[31merror[0m] [0m[0mobject MySimulation extends Adder {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:13:38: not found: type Wire[0m
+[0m[[0m[31merror[0m] [0m[0m    val ipt1, ipt2, sum, carry = new Wire[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:15:5: not found: value halfAdder[0m
+[0m[[0m[31merror[0m] [0m[0m    halfAdder(ipt1, ipt2, sum, carry)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:18:5: not found: value run[0m
+[0m[[0m[31merror[0m] [0m[0m    run()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:21:5: not found: value run[0m
+[0m[[0m[31merror[0m] [0m[0m    run()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:22:5: not found: value probe[0m
+[0m[[0m[31merror[0m] [0m[0m    probe("sum", sum)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala:23:5: not found: value probe[0m
+[0m[[0m[31merror[0m] [0m[0m    probe("carry", carry)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

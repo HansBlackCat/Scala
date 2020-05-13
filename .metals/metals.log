@@ -6651,3 +6651,251 @@ something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Sc
 2020.05.11 09:18:44 INFO  no build target: using presentation compiler with only scala-library
 2020.05.11 09:18:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34__mutableObj.scala
 2020.05.11 09:32:50 INFO  shutting down Metals
+2020.05.12 20:58:09 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.12 20:58:10 INFO  time: initialize in 1.23s
+2020.05.12 20:58:11 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.12 20:59:37 INFO  no build target: using presentation compiler with only scala-library
+2020.05.12 20:59:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34__mutableObj.scala
+May 12, 2020 8:59:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2020.05.12 20:59:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:00:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:00:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:00:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:00:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:00:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:18:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:18:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:18:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:18:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:18:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:18:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:19:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:19:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:19:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:20:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:20:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:21:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:21:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:21:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:22:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:22:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:22:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:22:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:22:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:22:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:22:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:23:00 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:23:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:23:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:23:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:23:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:23:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:23:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:28:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:28:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:28:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:29:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:29:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:29:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:29:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:29:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+May 12, 2020 9:30:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 853
+2020.05.12 21:30:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:30:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:32:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:32:10 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:32:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:32:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:32:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:34:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:36:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:36:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:37:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:38:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:38:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:39:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:39:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:42:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:42:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:42:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:42:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:43:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:44:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:45:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:47:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:47:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:47:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:53:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:53:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:53:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:53:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:54:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:54:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:54:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:54:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:56:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_DSL.scala
+2020.05.12 21:56:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+2020.05.12 21:56:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_DSL.scala
+2020.05.12 22:10:02 INFO  shutting down Metals
+2020.05.13 20:55:25 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.13 20:55:26 INFO  time: initialize in 1.02s
+2020.05.13 20:55:27 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.13 20:55:27 INFO  no build target: using presentation compiler with only scala-library
+2020.05.13 20:55:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/34_mutableObj.scala
+May 13, 2020 8:55:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+May 13, 2020 8:55:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+May 13, 2020 8:55:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2020.05.13 20:55:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 20:59:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:02:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:03:36 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.13 21:04:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:05:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:06:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:06:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:06:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:07:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:07:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:07:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:08:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:10 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 42, 42, 56)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 42, 42, 49)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 42, 42, 49)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 42, 42, 49)
+2020.05.13 21:12:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 77, 77, 91)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 77, 77, 84)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 77, 77, 84)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala, 77, 77, 84)
+2020.05.13 21:12:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:12:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:10 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:13:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:21:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:29 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+May 13, 2020 9:22:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 430, count -6, length 506
+java.lang.StringIndexOutOfBoundsException: offset 430, count -6, length 506
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:335)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+2020.05.13 21:22:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala
+2020.05.13 21:22:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/35_typeParams.scala

@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/hansblackcat/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar -classpath /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/target/scala-2.12/classes /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/CircuitDSL/src/main/scala/main.scala
