@@ -11,17 +11,12 @@ object MainApp extends App {
     import MySimulation._
 
     val ipt1, ipt2, sum, carry = new Wire
+    ipt1 setSignal false
+    ipt2 setSignal true
 
     halfAdder(ipt1, ipt2, sum, carry)
-    probe("sum", sum)
-    probe("carry", carry)
 
-    ipt1 setSignal true
     run()
-    probe("sum", sum)
-
-    ipt2 setSignal true
-    run()
-    probe("sum", sum)
     probe("carry", carry)
+    probe("sum", sum)
 }

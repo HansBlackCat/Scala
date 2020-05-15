@@ -14,7 +14,7 @@ abstract class Element extends Base {
         def setSignal(s: Boolean) = {
             if (s != sigVal) {
                 sigVal = s
-                actions.foreach(_())
+                actions.foreach(_ ())
             }
         }
 
@@ -39,7 +39,7 @@ abstract class Element extends Base {
             val ipt1Sig = ipt1.getSignal
             val ipt2Sig = ipt2.getSignal
             afterDelay(AndGateDelay) {
-                opt.setSignal(ipt1Sig | ipt2Sig)
+                opt.setSignal(ipt1Sig & ipt2Sig)
             }
         }
         ipt1.addAction(andAction)
@@ -56,6 +56,15 @@ abstract class Element extends Base {
         }
         ipt1.addAction(orAction)
         ipt2.addAction(orAction)
+    }
+
+    // (p | q) & not(p & q)
+    def xorGate(ipt1: Wire, ipt2: Wire, opt: Wire) = {
+        val c, d, e, f = new Wire
+        orGate(ipt1, ipt2, c)
+        andGate(ipt1, ipt2, d)
+        inverter(d, e)
+        andGate(c, e, f)
     }
 
     def probe(name: String, wire: Wire) = {
