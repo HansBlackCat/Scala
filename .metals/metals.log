@@ -7914,3 +7914,102 @@ WARNING: Unmatched cancel notification for request id 8244
 2020.05.15 17:01:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
 2020.05.15 17:01:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
 2020.05.15 17:01:36 INFO  shutting down Metals
+2020.05.16 00:07:23 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.16 00:07:24 INFO  time: initialize in 1.23s
+2020.05.16 00:07:25 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.16 00:19:34 INFO  no build target: using presentation compiler with only scala-library
+2020.05.16 00:19:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+May 16, 2020 12:31:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2020.05.16 00:31:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:47:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:47:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:47:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+May 16, 2020 12:47:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+2020.05.16 00:47:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:47:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:47:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:48:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:48:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:48:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:48:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:48:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:49:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:50:49 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.16 00:51:18 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.16 00:51:18 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.16 00:52:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:52:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:52:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:52:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:55:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:57:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/41_upperBound.scala
+2020.05.16 00:57:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/40_optimiziedQueue.scala
+2020.05.16 00:58:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:58:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:59:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:59:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 00:59:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:02:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:03:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:04:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:05:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:05:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:05:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:05:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:05:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:05:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:05:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:07:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:07:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:07:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:22:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:25:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:25:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:26:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:26:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+May 16, 2020 1:26:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1780
+2020.05.16 01:26:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:26:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:26:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:26:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:27:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:27:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:27:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:27:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala

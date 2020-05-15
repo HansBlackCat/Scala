@@ -1,3 +1,4 @@
+import java.awt.GradientPaint
 
 // abstract type(T), method(transfrom), val(initial), var(current)
 trait Abstract {
@@ -85,3 +86,39 @@ trait LazyRationalTraits {
 
 // scala> new LazyRationalTraits {val numerArg = 1*x; val denomArg = 2*x}
 // val res37: LazyRationalTraits = 1/2
+
+class Food
+abstract class Animal {
+    def eat(food: Food): Unit
+}
+
+class Grass extends Food
+class DogFood extends Food
+/*
+class Cow extends Animal {
+    // Won't compile b/c, no override exists
+    // Type different from Superclass
+    override def eat(food: Grass): Unit = {}
+}
+*/
+class Fish extends Food
+object CowEatFish {
+    val syd: Animal = new Cow
+    // syd.eat(new Fish)
+}
+
+
+abstract class AnimalTyped {
+    type SuitableFood <: Food
+    def eat(food: SuitableFood): Unit
+}
+class Cow extends AnimalTyped {
+    type SuitableFood = Grass
+    override def eat(food: Grass): Unit = {}
+}
+class Dog extends AnimalTyped {
+    type SuitableFood = DogFood
+    override def eat(food: DogFood): Unit = {}
+}
+
+
