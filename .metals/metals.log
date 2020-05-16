@@ -8013,3 +8013,16 @@ WARNING: Unmatched cancel notification for request id 1780
 2020.05.16 01:27:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
 2020.05.16 01:27:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
 2020.05.16 01:27:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/42_abstractMem.scala
+2020.05.16 01:37:24 INFO  shutting down Metals
+2020.05.16 20:17:12 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.16 20:17:14 INFO  time: initialize in 2.06s
+2020.05.16 20:17:14 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.16 20:17:14 INFO  no build target: using presentation compiler with only scala-library
+2020.05.16 20:17:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/40_optimiziedQueue.scala
+2020.05.16 20:20:48 INFO  shutting down Metals
+2020.05.17 00:56:09 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.17 00:56:11 INFO  time: initialize in 1.98s
+2020.05.17 00:56:12 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.17 00:56:12 INFO  no build target: using presentation compiler with only scala-library
+2020.05.17 00:56:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/31_sealedAndOption.scala
+2020.05.17 00:56:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/31_sealedAndOption.scala
