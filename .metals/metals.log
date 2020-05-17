@@ -8026,3 +8026,4 @@ WARNING: Unmatched cancel notification for request id 1780
 2020.05.17 00:56:12 INFO  no build target: using presentation compiler with only scala-library
 2020.05.17 00:56:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/31_sealedAndOption.scala
 2020.05.17 00:56:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/31_sealedAndOption.scala
+2020.05.17 00:59:05 INFO  shutting down Metals

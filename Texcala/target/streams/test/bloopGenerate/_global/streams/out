@@ -1,0 +1,4 @@
+[debug] [texcala-test] Classpath dependencies List()
+[debug] [texcala-test] Dependencies from configurations List(texcala)
+[debug] Bloop wrote the configuration of project 'texcala-test' to '/Users/hansblackcat/Documents/Git/Scala/Texcala/.bloop/texcala-test.json'
+[success] Generated .bloop/texcala-test.json

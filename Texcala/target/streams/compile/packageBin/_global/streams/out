@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/texcala_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1$$anon$2$$anon$3$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/Texcala/target/scala-2.12/classes/com/hansblackcat/gui/ScalaFXHelloWorld$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
