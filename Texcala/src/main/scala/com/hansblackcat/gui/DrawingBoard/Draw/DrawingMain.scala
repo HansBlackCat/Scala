@@ -19,9 +19,12 @@ import scalafx.scene.canvas.Canvas
 import scalafx.scene.control.TextField
 import scalafx.scene.control.TextArea
 import scalafx.event.ActionEvent
+import scalafx.scene.control.Label
+import scalafx.scene.control.ChoiceDialog
+import scalafx.scene.control.TreeItem
 
 object DrawingMain extends JFXApp {
-    private var drawings = List[Drawing]()
+    private var drawings = List[(Drawing, TreeView[Drawable])]()
 
     stage = new JFXApp.PrimaryStage {
         title = "Drawing Program"
@@ -46,17 +49,46 @@ object DrawingMain extends JFXApp {
             firstDrawing.root.addChild(new DrawingRectangle)
             firstDrawing.root.addChild(new DrawingText)
             
-            drawings = drawings :+ firstDrawing // append end - match with tabPlane
-            tabPane += makeDrawingTab(firstDrawing, "My Drawing")
+            val (tab, treeV) = makeDrawingTab(firstDrawing, "My Drawing")
+            drawings = drawings :+ firstDrawing -> treeV // append end - match with tabPlane
+            tabPane += tab
 
             newItem.onAction = (actionEvent: ActionEvent) => {
                 val newDrawing = new Drawing
-                drawings = drawings :+ newDrawing
+                val (tab, treeV) = makeDrawingTab(newDrawing, "Untitled")
+                drawings = drawings :+ newDrawing -> treeV
                 val newTab = makeDrawingTab(newDrawing, "Untitled")
-                tabPane += newTab
+                tabPane += tab
             }
             addItem.onAction = (actionEvent: ActionEvent) => {
-
+                val current = tabPane.selectionModel().selectedIndex()
+                if (current >= 0) {
+                    val (drawing, treeV) = drawings(current)
+                    val dialog = new ChoiceDialog("Rectangel", List("Rectangle", "Transform", "Text"))
+                    dialog.showAndWait().foreach { s => 
+                        val d: Drawable = {
+                            s match {
+                                case "Rectangle" => new DrawingRectangle
+                                case "Transform" => new DrawingTransform
+                                case "Text" => new DrawingText
+                            }
+                        }
+                        val treeSelect = treeV.selectionModel().selectedItem()
+                        def treeAdd(item: TreeItem[Drawable]): Unit = item.getValue match {
+                            case dt: DrawingTransform => {
+                                dt.addChild(d)
+                                item.children += new TreeItem(d)
+                                drawing.draw()
+                            }
+                            case d => {
+                                treeAdd(item.getParent)
+                            }
+                        }
+                        if (treeSelect != null) {
+                            treeAdd(treeSelect)
+                        }
+                    }
+                }
             }
             exitItem.onAction = (actionEvent: ActionEvent) => {
                 // ToDo Save all tabs
@@ -71,7 +103,7 @@ object DrawingMain extends JFXApp {
 
     }
 
-    private  def makeDrawingTab(drawing: Drawing, name: String): Tab = {
+    private  def makeDrawingTab(drawing: Drawing, name: String): (Tab, TreeView[Drawable]) = {
         val drawingTree = new TreeView[Drawable]
         drawingTree.root = drawing.makeTree()
         val treeScroll = new ScrollPane
@@ -103,9 +135,18 @@ object DrawingMain extends JFXApp {
         topSplit.items ++= List(leftSplit, rightSplit)
         topSplit.dividerPositions = 0.3
 
+        drawingTree.selectionModel.value.selectedItem.onChange {
+            val selected = drawingTree.selectionModel().selectedItem()
+            if (selected != null) {
+                propertyPane.content = selected.getValue.propertiesPanel
+            } else {
+                propertyPane.content = new Label("Nothing selected")
+            }
+        }
+
         val tab = new Tab
         tab.text = name
         tab.content = topSplit
-        tab
+        tab -> drawingTree
     }
 }

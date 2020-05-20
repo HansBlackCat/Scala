@@ -8027,3 +8027,21 @@ WARNING: Unmatched cancel notification for request id 1780
 2020.05.17 00:56:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala2/31_sealedAndOption.scala
 2020.05.17 00:56:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/31_sealedAndOption.scala
 2020.05.17 00:59:05 INFO  shutting down Metals
+2020.05.19 10:14:54 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.19 10:14:55 INFO  time: initialize in 1.22s
+2020.05.19 10:14:56 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.19 10:14:56 INFO  no build target: using presentation compiler with only scala-library
+May 19, 2020 10:14:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2020.05.19 10:14:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/42_abstractMem.scala
+May 19, 2020 10:14:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.05.19 10:20:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.19 10:20:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.19 10:48:46 INFO  shutting down Metals
+2020.05.19 13:35:29 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.19 13:35:30 INFO  time: initialize in 1.06s
+2020.05.19 13:35:31 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.19 13:35:31 INFO  no build target: using presentation compiler with only scala-library
+2020.05.19 13:35:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.19 13:42:21 INFO  shutting down Metals

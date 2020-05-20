@@ -4,6 +4,9 @@ import scalafx.scene.control.TreeItem
 
 class Drawing {
     val root = new DrawingTransform
+
+    def draw(): Unit = {}
+
     def makeTree(): TreeItem[Drawable] = {
         def helper(drawable: Drawable): TreeItem[Drawable] = {
             drawable match {
