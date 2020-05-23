@@ -8045,3 +8045,718 @@ WARNING: Unmatched cancel notification for request id 4
 2020.05.19 13:35:31 INFO  no build target: using presentation compiler with only scala-library
 2020.05.19 13:35:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
 2020.05.19 13:42:21 INFO  shutting down Metals
+2020.05.23 00:43:24 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.23 00:43:25 INFO  time: initialize in 1.17s
+2020.05.23 00:43:26 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.23 00:43:26 INFO  no build target: using presentation compiler with only scala-library
+2020.05.23 00:43:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:48:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:48:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:48:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:48:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:48:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:48:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:48:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:10 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 12:49:39 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 12:49:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1830)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5653)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2017)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+May 23, 2020 12:49:39 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 12:49:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1830)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5653)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2017)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+2020.05.23 00:49:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:49:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:50:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:50:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:50:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:50:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/36_Queue2.scala
+2020.05.23 00:53:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:53:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:54:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:54:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:54:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:55:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 12:55:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 848
+2020.05.23 00:55:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:55:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 12:55:42 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 12:55:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+May 23, 2020 12:55:42 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 12:55:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+2020.05.23 00:55:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:55:55 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:57:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:57:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:57:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:57:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:58:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:58:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:58:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 12:59:34 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 12:59:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+2020.05.23 00:59:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 00:59:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:00:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:01:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:01:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:01:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/12_Rational.scala
+2020.05.23 01:02:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/12_Rational.scala
+May 23, 2020 1:02:46 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 1:02:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1830)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5653)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+2020.05.23 01:02:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/12_Rational.scala
+2020.05.23 01:02:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/12_Rational.scala
+2020.05.23 01:02:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/12_Rational.scala
+2020.05.23 01:02:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/12_Rational.scala
+2020.05.23 01:03:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/12_Rational.scala
+2020.05.23 01:03:06 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.23 01:04:49 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.23 01:07:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:07:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:07:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:07:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:07:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:07:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:07:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:11 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 1:08:29 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 1:08:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+2020.05.23 01:08:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:08:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:09:00 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:09:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:09:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:09:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:12:13 INFO  shutting down Metals
+2020.05.23 01:16:15 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.23 01:16:16 INFO  time: initialize in 1.08s
+2020.05.23 01:16:16 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.23 01:16:16 INFO  no build target: using presentation compiler with only scala-library
+2020.05.23 01:16:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 1:23:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+2020.05.23 01:23:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:23:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:24:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:24:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:24:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:24:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:24:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:24:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:24:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:26:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:26:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:27:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:27:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 1:27:06 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 1:27:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2017)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+2020.05.23 01:27:14 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:27:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:27:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:27:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:27:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:27:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:36:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 01:36:56 INFO  shutting down Metals
+2020.05.23 03:41:03 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.23 03:41:04 INFO  time: initialize in 1.19s
+2020.05.23 03:41:05 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.23 03:41:05 INFO  no build target: using presentation compiler with only scala-library
+2020.05.23 03:41:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 3:41:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2020.05.23 03:46:31 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:46:33 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:46:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 3:46:36 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 23, 2020 3:46:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:64)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:141)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:138)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.factoryMeth(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:229)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:228)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:58)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:94)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:80)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$2.enterExistingSym(Global.scala:51)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:298)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:479)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:478)
+	at scala.meta.internal.pc.MetalsGlobal$MetalsInteractiveAnalyzer.pluginsEnterSym(MetalsGlobal.scala:52)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:272)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1933)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1928)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1990)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2017)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1883)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5654)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5797)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3357)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5363)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5656)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5733)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:115)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:451)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1340)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1333)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:665)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:814)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1225)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:370)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+
+2020.05.23 03:46:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:46:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:46:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:54:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 3:54:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 198
+2020.05.23 03:54:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:54:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:54:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:55:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:55:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:55:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:55:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:55:18 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:55:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:56:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:56:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:56:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:56:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:56:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:58:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:58:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 03:58:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:02:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 914, 914, 928)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 914, 914, 921)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 914, 914, 921)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 914, 914, 921)
+2020.05.23 04:02:58 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:07 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 933, 933, 951)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 933, 933, 944)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 933, 933, 944)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 933, 933, 944)
+2020.05.23 04:03:15 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:22 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:30 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:37 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:44 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:03:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:10 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:26 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:28 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:35 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:42 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:50 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:04:56 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:05:02 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:05:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:05:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:09:48 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:27:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:27:59 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:04 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1324, 1324, 1338)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1324, 1324, 1331)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1324, 1324, 1331)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in List[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1324, 1324, 1331)
+2020.05.23 04:28:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:12 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:16 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:19 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:21 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[<error>]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1352, 1352, 1370)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1352, 1352, 1363)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1352, 1352, 1363)
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1352, 1352, 1363)
+2020.05.23 04:28:23 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:36 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:43 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:47 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:52 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:54 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:28:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:29:01 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:29:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:29:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:29:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:29:27 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+May 23, 2020 4:29:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1932
+2020.05.23 04:29:39 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+something's wrong: no file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala in Ordering[T]RangePosition(file:///Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala, 1352, 1352, 1363)
+2020.05.23 04:30:32 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:34 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:38 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:41 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:49 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:51 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:53 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:30:57 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:31:03 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:31:05 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:31:08 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:42:06 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:42:09 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:42:13 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:42:20 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:42:24 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:42:25 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 04:42:33 INFO  shutting down Metals
+2020.05.23 04:50:35 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.23 04:50:37 INFO  time: initialize in 1.56s
+2020.05.23 04:50:38 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.23 04:50:38 INFO  no build target: using presentation compiler with only scala-library
+2020.05.23 04:50:40 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 05:03:45 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 05:03:46 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 05:23:13 INFO  shutting down Metals
+2020.05.23 22:57:14 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala'
+2020.05.23 22:57:15 INFO  time: initialize in 1.07s
+2020.05.23 22:57:15 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.23 22:57:15 INFO  no build target: using presentation compiler with only scala-library
+2020.05.23 22:57:17 WARN  no build target for: /Users/hansblackcat/Documents/Git/Scala/Practice_Scala/43_implicitConv.scala
+2020.05.23 22:58:08 INFO  shutting down Metals

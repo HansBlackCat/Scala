@@ -94,5 +94,7 @@ class Rational(n: Int, d: Int) extends Ordered[Rational] {
         if (this.lessThan(that)) that else this
     }
 
+    implicit def intToRational (x: Int) = new Rational(x,1)
+
     def compare(that: Rational): Int = (this.numer * that.denom) - (that.numer * this.denom)
 }
