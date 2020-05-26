@@ -2,3 +2,7 @@
 2020.05.12 15:53:54 INFO  time: initialize in 1.09s
 2020.05.12 15:53:55 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.05.12 16:15:01 INFO  shutting down Metals
+2020.05.26 14:08:07 INFO  started: Metals version 0.9.0 in workspace '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark'
+2020.05.26 14:08:08 INFO  time: initialize in 1.09s
+2020.05.26 14:08:09 WARN  no build tool detected in workspace '/Users/hansblackcat/Documents/Git/Scala/Practice_Spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.26 14:08:49 INFO  shutting down Metals
