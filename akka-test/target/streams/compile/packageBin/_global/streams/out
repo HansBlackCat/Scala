@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/akka-test_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$DonutInfoActor8$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$DonutInfoActor8$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$DonutStoreProtocol8$Information$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$DonutStoreProtocol8$Information$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$BakingActor8$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$BakingActor8$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$DonutInfoActor8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$DonutInfoActor8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$DonutStoreProtocol8$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$DonutStoreProtocol8$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$BakingActor8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$BakingActor8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/hansblackcatnas/Main$DonutStoreProtocol8$Information.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hansblackcat/Documents/Git/Scala/akka-test/target/scala-2.12/classes/com/hansblackcatnas/Main$DonutStoreProtocol8$Information.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
